@@ -52,7 +52,7 @@ async def play_logs(message, streamtype):
                     f"{logger_text}",
                     disable_web_page_preview=True,
                 )
-                await app.set_chat_title(LOG_GROUP_ID, f"PLUTO MÜZİK LOG - {aktifseslisayısı}")
+                await app.set_chat_title(LOG_GROUP_ID, f"DİSNEP MÜZİK LOG - {aktifseslisayısı}")
             except:
                 pass
         return
