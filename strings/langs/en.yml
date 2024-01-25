@@ -9,13 +9,13 @@ general_5 : "Bu eylemi gerçekleştirmek için sesli sohbet haklarına sahip yö
 general_6 : "Bot sesli sohbette yayın yapmıyor. 🪐"
 
 # Classes - Telegram.py
-tg_1 : "Bot şu anda indirilenlerle **Aşırı yüklenmiş**. @PlutoOwner hesabına düzeltmesi için bu mesajı bildiriniz.\n\n**Deneme Süresi:** {0} (__beklenen süre__))"
+tg_1 : "Bot şu anda indirilenlerle **Aşırı yüklenmiş**. @chelucifer hesabına düzeltmesi için bu mesajı bildiriniz.\n\n**Deneme Süresi:** {0} (__beklenen süre__))"
 tg_2 : "Telegram'dan Medya İndirilirken Hata Oluştu."
 
 # Core - Call.py
 call_1 : "Bot, asistan hesabını grububunuza davet etmek için **Yönetici** İzni gerektirir.\n\Lütfen bota davet yetkisi verin."
-call_2 : "**Asistanı Grubunuzda yasaklamışsınız**, lütfen yasağı kaldırın! \nAsistanın bilgileri aşağıda unban yaparsanız tekrar katılabilir. Veya grup ayarlarında çıkarılan kullanıcılar listesinde asistanı bulup engeli kaldırın. Yapamazsanız @PlutoOwner hesabına ulaşın.\n\n**Asistan Kullanıcı Adı:** @{0}\n**Asistan ID:** {1}"
-call_3 : "Asistan Hesabı sohbetinize katılırken sorun oluştu.\nLütfen @{0} hesabını gruba kendiniz ekleyin veya @PlutoMuzik hesabına yazın.\n\n**Sistem Notu**: {1}"
+call_2 : "**Asistanı Grubunuzda yasaklamışsınız**, lütfen yasağı kaldırın! \nAsistanın bilgileri aşağıda unban yaparsanız tekrar katılabilir. Veya grup ayarlarında çıkarılan kullanıcılar listesinde asistanı bulup engeli kaldırın. Yapamazsanız @chelucifer hesabına ulaşın.\n\n**Asistan Kullanıcı Adı:** @{0}\n**Asistan ID:** {1}"
+call_3 : "Asistan Hesabı sohbetinize katılırken sorun oluştu.\nLütfen @{0} hesabını gruba kendiniz ekleyin veya  hesabına yazın.\n\n**Sistem Notu**: {1}"
 call_4 : "Bot, asistan hesabını sohbet grubunuza davet etmek için **Kullanıcıları Bağlantı Yoluyla Davet Et** Yetkisi gerektirir.\nLütfen bota davet yetkisi verin."
 call_5 : "Asistan Hesabı 5 Saniye içinde katılacak.. Lütfen Bekleyin 🪐"
 call_6 : "**Asistan Hesabı [{0}] Başarıyla Katıldı. 🪐\n\nMüzik Şimdi Başlatılıyor**"
@@ -120,7 +120,7 @@ gstats_4 : "**Bottaki Toplam İşlem Sayısı:** {0}\n\n{1} Şu Ana Kadar **{2}*
 gstats_5 : "**Top {0} Grup {1}:**\n\n"
 gstats_6 : "**Top {0} Kullanıcı {1}:**\n\n"
 gstats_7 : "Bu Grupta **{0}** Parça **{1}** Kez Çaldı.\n\nGruptaki Top {2} Parça :\n\n"
-gstats_8 : "**İstatistikler Yükleniyor... Bu Biraz Zaman Alabilir... 🪐**\n\n**O Zamana Kadar @EtiketGramTRBot İle Etiket İşlemi yapabilirsiniz.** "
+gstats_8 : "**İstatistikler Yükleniyor... Bu Biraz Zaman Alabilir... 🪐**\n\n**O Zamana Kadar  İle Etiket İşlemi yapabilirsiniz.** "
 gstats_9 : "**BOTTAKİ TOP10 İSTATİSTİKLER**\n\nButonları Kullanarak İstediğiniz İstatistiği Görebilirsiniz. 🪐"
 gstats_10 : "**Global İstatistikler {0}**\n\nButonları Kullanarak İstediğiniz İstatistiği Görebilirsiniz. 🪐"
 gstats_11 : "** {0}unun Genel İstatistiklerini Görmek İçin Aşağıdaki Butona Tıklayabilirsiniz.** 🪐"
@@ -228,7 +228,7 @@ queue_4 : "⏳ Sıraya eklendi **#{0}\n\n🪐Başlık:** {1}\n**⏱Süre:** {2}\
 queue_5 : "Sırada Sadece Bir Parça Var, Lütfen Biraz Daha Parça Ekleyin. 🪐"
 
 # All Streaming Lines
-stream_1 : "🪐 **Yayın Başladı**\n\n👉**Talep Eden:** {0}\n🔦**Bilgi: **[Buradan]({1})"
+stream_1 : " 🔷 **URL ile Yayına Başlandı **\n\n👉**Talep Eden: {0}**"
 stream_2 : "🎧 **URL ile Yayına Başlandı **\n\n👉**Talep Eden: {0}**"
 stream_3 : "**🪐Başlık:** {0}\n⌛️**Süre**: {1}\n👉**Talep Eden: {2}**"
 stream_4 : "**🪐Başlık:** [{0}]({1})\n⌛️**Süre**: {2}\n👉**Talep Eden: {3}**"
